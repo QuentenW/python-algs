@@ -1,3 +1,5 @@
+#Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
+
 def longest_consecutive_sequence(nums):
     if not nums:
         return 0
