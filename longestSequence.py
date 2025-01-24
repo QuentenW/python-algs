@@ -1,5 +1,5 @@
 #Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
-
+#01/2025, Quenten welch
 def longest_consecutive_sequence(nums):
     if not nums:
         return 0
