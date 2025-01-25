@@ -1,0 +1,1 @@
+# Given a sorted array of integers, find two numbers that add up to a specific target sum. Return their indices (1-based). Assume there's exactly one solution.
