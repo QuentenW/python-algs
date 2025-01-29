@@ -1,5 +1,5 @@
 from collections import defaultdict, deque
-#01/2025, Quenten welch
+
 
 # [['a', 'b'], ['b', 'c'], ['b', 'd'], ['b', 'c'], ['c', 'd']]
 def find_installation_order(dependencies):
