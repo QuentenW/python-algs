@@ -16,7 +16,4 @@ def is_cyclic(graph):
                 return True
     return False
 
-# Example usage:
-graph = {
-    0: [1, 2],
-    1: [
+
