@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-
+// streak is life
 export default function App() {
   const [data, setData] = useState([]);
   useEffect(() => {
